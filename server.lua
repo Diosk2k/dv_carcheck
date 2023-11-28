@@ -1,3 +1,11 @@
+AddEventHandler('onResourceStart', function(resourceName)
+	if (GetCurrentResourceName() ~= resourceName) then
+	  return
+	end
+	print('Die Ressource ' .. resourceName .. ' wurde gestartet.')
+end)
+  
+
 local alwaysCheck = true
 
 if alwaysCheck then
