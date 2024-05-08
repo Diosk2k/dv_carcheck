@@ -2,7 +2,7 @@
 
 
 ## Dokumentation
-Das Skript soll die Existenz von Fahrzeugen mit doppelten Nummernschildern und passenden Modellen in der Spielumgebung verhindern. Die Methode unterscheidet sich je nachdem, ob diese Prüfung kontinuierlich durchgeführt wird (alwaysCheck ist wahr) oder nur während der Erstellung neuer Entitäten.
+Das Skript soll die Existenz von Fahrzeugen mit doppelten Nummernschildern und passenden Modellen in der Spielumgebung verhindern. Die Methode unterscheidet sich je nachdem, ob diese Prüfung kontinuierlich durchgeführt wird (alwaysCheck is true) oder nur während der Erstellung neuer Entitäten.
 ## Installationsoptionen
 
 #### installieren 1
