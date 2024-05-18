@@ -1,19 +1,19 @@
 # DV Carcheck
 
 
-## Dokumentation
-Das Skript soll die Existenz von Fahrzeugen mit doppelten Nummernschildern und passenden Modellen in der Spielumgebung verhindern. Die Methode unterscheidet sich je nachdem, ob diese Prüfung kontinuierlich durchgeführt wird (alwaysCheck is true) oder nur während der Erstellung neuer Entitäten.
-## Installationsoptionen
+## Documentation
+The script aims to prevent the existence of vehicles with duplicate license plates and matching models in the game environment. The method differs depending on whether this check is performed continuously (alwaysCheck is true) or only during the creation of new entities.
 
-#### installieren 1
+## Installation Options
 
-  Verwenden Sie es als einzelne Ressource
+#### Install 1
 
-#### installieren 2
+  Use it as a standalone resource
 
-  Sie können auch den Code aus Server.lua in die Ressource Ihrer Wahl einbinden
+#### Install 2
 
+  You can also incorporate the code from Server.lua into the resource of your choice
 
-## Ersteller
+## Creator
 
 - [@Diosk](https://github.com/Diosk2k)
